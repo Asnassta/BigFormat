@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 160px; }
   @media (min-width: 1170px) {
     .intro__inner {
-      max-width: 65%; } }
+      max-width: 66%; } }
   .intro__title {
     font-family: "Playfair Display", serif;
     font-size: 55px;
@@ -279,7 +279,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
     line-height: 1.4;
     margin-bottom: 45px;
-    max-width: 90%; }
+    max-width: 85%; }
   .intro-calc {
     display: -webkit-box;
     display: -ms-flexbox;
